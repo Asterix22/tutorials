@@ -10,6 +10,9 @@
 	<name>parent-modules</name>
 	<packaging>pom</packaging>
 
+	<modules>
+	<module>java-strings</module>
+	</modules>
 	<dependencies>
 		<!-- logging -->
 		<dependency>
